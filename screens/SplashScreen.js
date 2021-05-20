@@ -23,7 +23,7 @@ export default class SplashScreen extends Component {
             height: '55%',
           }}>
           <Image
-            source={require('../data/logo.png')}
+            source={require('../data/logo2.png')}
             style={{
               width: '100%',
               height: 450,
