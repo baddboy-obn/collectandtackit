@@ -1,0 +1,6 @@
+module Pods_CollectAndTake_CollectAndTakeTests {
+  umbrella header "Pods-CollectAndTake-CollectAndTakeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

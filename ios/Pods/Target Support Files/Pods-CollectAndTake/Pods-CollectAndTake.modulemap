@@ -1,0 +1,6 @@
+module Pods_CollectAndTake {
+  umbrella header "Pods-CollectAndTake-umbrella.h"
+
+  export *
+  module * { export * }
+}

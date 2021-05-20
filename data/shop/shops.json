@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Магнит",
+    "img": require("../data/magnit.png"),
+    "distance": "21км",
+    "alias": "magnit"
+  },
+  {
+    "name": require("../data/ashan.png"),
+    "distance": "700 метров",
+    "alias": "ashan"
+  },
+  {
+    "name": "Перекресток",
+    "img": require(,"../data/perekrestok.png"),
+    "distance": "250 метров",
+    "alias": "perekrestok"
+  }
+]

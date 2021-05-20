@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Молочные продукты",
+    "url": "https://pbs.twimg.com/media/ExmFnnsWEAAZJFb.jpg",
+    "alias": "milk"
+  },{
+    "name": "Фрукты, овощи",
+    "url": "",
+    "alias" : "fruit"
+  },{
+    "name": "Мясо, рыба",
+    "url": "",
+    "alias": "meet"
+  },{
+    "name": "Хлеб",
+    "url": "",
+    "alias": "bread"
+  },{
+    "name": "Вода, напитки, \nчай",
+    "url": "",
+    "alias": "drink"
+  },{
+    "name": "Сладости",
+    "url": "",
+    "alias": "sweet"
+  },{
+  "name": "Бакалея",
+  "url": "",
+  "alias": "grocery"
+}
+]

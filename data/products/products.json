@@ -1,0 +1,217 @@
+
+  {
+    "meet": [
+      {
+        "id": 1,
+        "name": "Филе курицы",
+        "unit": "кг",
+        "url": "https://sbermarket.ru/spree/products/1588503/small/193441.jpg?1608154942",
+        "price": 450,
+        "count": 0
+      },
+      {
+        "id": 2,
+        "name": "Филе индейки",
+        "unit": "кг",
+        "url": "https://vgastronom-smr.ru/upload/resize_cache/iblock/a66/289_300_1/a66209ad16764af4eaf4a966906ae835.jpg",
+        "price": 480,
+        "count": 0
+      },
+      {
+        "id": 3,
+        "name": "Говядина вырезка",
+        "unit": "кг",
+        "url": "https://storage.delikateska.ru/cache/c/5/3c1014c5-8465-447b-a1cf-5a790a61a7ef.png/w400h400.png",
+        "price": 550,
+        "count": 0
+      }
+    ],
+    "bread": [
+      {
+        "id": 4,
+        "name": "Хлеб черный Бородинский",
+        "unit": "шт",
+        "url": "https://avatars.mds.yandex.net/get-mpic/1733932/img_id7342555513166715933.jpeg/6hq",
+        "price": 48,
+        "count": 0
+      },
+      {
+        "id": 5,
+        "name": "Батон нарезной",
+        "unit": "шт",
+        "url": "https://dostavka.dixy.ru/upload/resize_cache/iblock/898/350_350_1/8987cfab9f394b57d30bb09ba18e0070.jpg",
+        "price": 52,
+        "count": 0
+      }
+    ],
+    "drink":[
+      {
+        "id": 6,
+        "name": "Вода минеральная без газа",
+        "unit": "шт",
+        "url": "https://ledniklive.ru/upload/resize_cache/iblock/354/270_260_0/3547412974146a19959df928839a34fe.jpg",
+        "price": 55,
+        "count": 0
+      },
+      {
+        "id": 7,
+        "name": "Вода минеральная с газом",
+        "unit": "шт",
+        "url": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/52332/1245270016_akvaminerale2-300.jpg",
+        "price": 55,
+        "count": 0
+      }
+    ],
+    "sweet": [
+      {
+        "id": 8,
+        "name": "Конфеты Коровка",
+        "unit": "гр",
+        "url": "https://vgastronom.ru/upload/iblock/2fe/2fe9fcfd260ed73faff94aa464d6c3d6.png",
+        "price": 125,
+        "count": 0
+      },{
+        "id": 9,
+        "name": "Шоколадка Марс",
+        "unit": "шт",
+        "url": "https://nagor-shop.ru/wp-content/uploads/2020/04/00100147584_001-324x324.jpg",
+        "price": 89,
+        "count": 0
+      }
+    ],
+    "fruit": [
+      {
+        "id": 10,
+        "name": "Яблоки сезонные",
+        "unit": "кг",
+        "url": "https://st2.stblizko.ru/images/product/366/502/724_medium.jpg",
+        "price": 120,
+        "count": 0
+      },
+      {
+        "id": 11,
+        "name": "Картофель",
+        "unit": "кг",
+        "url": "https://pbs.twimg.com/media/DOCdNxLXkAAQ9x7.jpg",
+        "price": 110,
+        "count": 0
+      },
+      {
+        "id": 12,
+        "name": "Морковь",
+        "unit": "кг",
+        "url": "https://e7.pngegg.com/pngimages/143/955/png-clipart-three-carrot-vegetables-carrot-peruvian-cuisine-root-vegetables-fruit-vegetable-carrot-natural-foods-food-thumbnail.png",
+        "price": 80,
+        "count": 0
+      },
+      {
+        "id": 13,
+        "name": "Лук репчатый",
+        "unit": "кг",
+        "url": "https://vseroste.com.ua/uploads/shop/products/main/cc185bf1-e389-11ea-943b-d55861f66786.jpg",
+        "price": 80,
+        "count": 0
+      },
+      {
+        "id": 14,
+        "name": "Редис",
+        "unit": "кг",
+        "url": "https://arga-mag.com/file/img/2020/03/Properties-of-radishes-1.jpg",
+        "price": 90,
+        "count": 0
+      },
+      {
+        "id": 15,
+        "name": "Огурцы",
+        "unit": "кг",
+        "url": "https://img1.freepng.ru/20171220/xqq/cucumber-png-5a3a981f1392c0.2876873415137894710802.jpg",
+        "price": 87,
+        "count": 0
+      },
+      {
+        "id": 16,
+        "name": "Помидоры",
+        "unit": "кг",
+        "url": "https://freepngimg.com/thumb/tomato/6-tomato-png-image-thumb.png",
+        "price": 86,
+        "count": 0
+      },
+      {
+        "id": 17,
+        "name": "Свекла",
+        "unit": "кг",
+        "url": "https://biohimik.net/wp-content/uploads/2020/02/svekla.jpg",
+        "price": 88,
+        "count": 0
+      },
+      {
+        "id": 18,
+        "name": "Капуста белокачанная",
+        "unit": "кг",
+        "url": "https://korzina.su/upload/resize_cache/iblock/e15/310_310_1/e15736a0e0bacb8c8c91653be983a934.jpg",
+        "price": 55,
+        "count": 0
+      }
+    ],
+    "grocery": [
+      {
+        "id": 19,
+        "name": "Сахар",
+        "unit": "кг",
+        "url": "https://sizo-arsenalka.ru/upload/resize_cache/iblock/377/400_260_1/3778f0850d39f300b00aa2a90fef1fce.jpg",
+        "price": 98,
+        "count": 0
+      },
+      {
+        "id": 20,
+        "name": "Соль",
+        "unit": "кг",
+        "url": "https://images.ru.prom.st/117288008_w500_h500_sol-polese-ekstra.jpg",
+        "price": 98,
+        "count": 0
+      },
+      {
+        "id": 21,
+        "name": "Пшеничная мука",
+        "unit": "кг",
+        "url": "https://images.ru.prom.st/706675930_w200_h200_muka-pshenichnaya-hlebopekarnaya.jpg",
+        "price": 250,
+        "count": 0
+      },
+      {
+        "id": 22,
+        "name": "Масло ростительное",
+        "unit": "кг",
+        "url": "https://vgastronom-tmn.ru/upload/resize_cache/iblock/098/300_300_1/098c88a2b2cf7ec177fe115a9ba4b28b.jpg",
+        "price": 120,
+        "count": 0
+      }
+    ],
+    "milk" : [
+      {
+        "id": 23,
+        "name": "Молоко",
+        "unit": "шт",
+        "url": "https://sun9-69.userapi.com/s/v1/ig2/gk4xiHxbMtpeDV50KuROm0b3GnqLa_Eg11geNmmHEWuR8_JwRiAESXCqyOw7V5XK6Vz1psypmZm2hoDnmKKiW5IL.jpg?size=100x0&quality=96&crop=0,0,1023,1023&ava=1",
+        "price": 99,
+        "count": 0
+      },
+      {
+        "id": 24,
+        "name": "Творог",
+        "unit": "гр",
+        "url": "https://domoidostavim.ru/images/static/products/0574646a-c21a-459f-8214-1f95e045b2c1.jpg",
+        "price": 120,
+        "count": 0
+      },
+      {
+        "id": 25,
+        "name": "Сметана",
+        "unit": "гр",
+        "url": "https://static.yamart.ru/listpreview/r/2700/13495267.jpg",
+        "price": 99,
+        "count": 0
+      }
+    ]
+  }
+
