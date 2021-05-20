@@ -13,7 +13,7 @@ export default class SplashScreen extends Component {
         }}>
         <View style={{margin: 25}}>
           <Text style={{fontSize: 48, color: '#ffffff', fontWeight: 'bold'}}>
-            Доверьте{'\n'}нам ваши{'\n'}покупки
+            Доверьте{'\n'}нам Ваши{'\n'}покупки
           </Text>
         </View>
         <View
@@ -26,7 +26,7 @@ export default class SplashScreen extends Component {
             source={require('../data/logo2.png')}
             style={{
               width: '100%',
-              height: 450,
+              height: 500,
             }}
           />
         </View>

@@ -2,8 +2,18 @@ import React, {Component} from 'react';
 import {View, Text, TouchableOpacity, Image} from 'react-native';
 import {SafeAreaView} from 'react-navigation';
 import {Actions} from 'react-native-router-flux';
+import RadioForm from "react-native-simple-radio-button";
+
+let RadioButtonProject = [
+    {
+        label: 'Самовывоз', value: 0
+    },{
+        label: 'Доставка', value: 1
+    },
+]
 
 export default class ConfirmOrderScreen extends Component {
+    state = {value: 0}
   render() {
     return (
       <SafeAreaView style={{flex: 1}}>
@@ -44,6 +54,16 @@ export default class ConfirmOrderScreen extends Component {
             +7 999 999 99 99
           </Text>
         </View>
+
+          <View
+              style={{
+                  margin: 20,
+                  padding: 20,
+                  backgroundColor: '#fff',
+                  borderRadius: 10,
+              }}>
+            <RadioForm radio_props={RadioButtonProject} initial={0} onPress={(value)=> {this.setState({value: value})}}/>
+          </View>
         <View style={{margin: 20}}>
           <TouchableOpacity
             style={{
@@ -54,7 +74,7 @@ export default class ConfirmOrderScreen extends Component {
               width: '100%',
               borderRadius: 10,
             }}
-            onPress={() => Actions.delivery()}>
+            onPress={() => Actions.delivery({deliveryType: this.state.value})}>
             <Text style={{color: '#fff'}}>Продолжить</Text>
           </TouchableOpacity>
         </View>
