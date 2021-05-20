@@ -49,7 +49,7 @@ export default class ServicesScreen extends Component {
           <TouchableOpacity
             style={{
               flex: 2,
-              backgroundColor: '#dddfff',
+              backgroundColor: '#fff',
               margin: 20,
               height: 200,
               borderRadius: 15,
@@ -59,12 +59,13 @@ export default class ServicesScreen extends Component {
             }}
             activeOpacity={0.8}
             onPress={() => Actions.recipe()}>
+              <Image source={ require('../data/recipe-img.png')} style={{marginBottom: 10}}/>
             <Text>Рецепты</Text>
           </TouchableOpacity>
           <TouchableOpacity
             style={{
               flex: 2,
-              backgroundColor: '#fffddd',
+              backgroundColor: '#fff',
               margin: 20,
               height: 200,
               borderRadius: 15,
@@ -74,6 +75,7 @@ export default class ServicesScreen extends Component {
             }}
             activeOpacity={0.8}
             onPress={() => Actions.category()}>
+              <Image source={ require('../data/products-img.png')} style={{marginBottom: 10}}/>
             <Text>Продукты</Text>
           </TouchableOpacity>
         </View>

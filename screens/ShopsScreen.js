@@ -15,19 +15,19 @@ import {Actions} from 'react-native-router-flux';
 const shops = [
   {
     name: 'Магнит',
-    img: require('../data/magnit.png'),
+    img: require('../data/logo-magnit.png'),
     distance: '21км',
     alias: 'magnit',
   },
   {
     name: 'Ашан',
-    img: require('../data/ashan.png'),
+    img: require('../data/auchan-logo.png'),
     distance: '700 метров',
     alias: 'ashan',
   },
   {
     name: 'Перекресток',
-    img: require('../data/perekrestok.png'),
+    img: require('../data/perek-logo.png'),
     distance: '250 метров',
     alias: 'perekrestok',
   },
@@ -57,7 +57,8 @@ export default class ShopsScreen extends Component {
                     alignItems: 'center',
                     padding: 20
                   }}>
-                  <Text style={{fontSize: 26, fontWeight: '300'}}>{shop.name}</Text>
+                  <Image source={shop.img}/>
+
                 </View>
               </TouchableOpacity>
             );
