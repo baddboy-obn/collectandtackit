@@ -5,27 +5,27 @@
     "alias": "milk"
   },{
     "name": "Фрукты, овощи",
-    "url": "",
+    "url": "https://pbs.twimg.com/media/Dbj4VT5VMAAlkB_.jpg",
     "alias" : "fruit"
   },{
     "name": "Мясо, рыба",
-    "url": "",
+    "url": "https://sun9-3.userapi.com/c623421/v623421813/1a7a4/utmEyC_lCZY.jpg",
     "alias": "meet"
   },{
     "name": "Хлеб",
-    "url": "",
+    "url": "https://hipzmag.com/wp-content/uploads/2018/12/pshenichnyj-hleb.jpg",
     "alias": "bread"
   },{
     "name": "Вода, напитки, \nчай",
-    "url": "",
+    "url": "https://st-de.jigsawplanet.com/i/f3ee7c00d70dc00300a60abadd671e7a59/320/jp.jpg",
     "alias": "drink"
   },{
     "name": "Сладости",
-    "url": "",
+    "url": "https://img4.goodfon.ru/original/320x240/3/b4/candy-ledentsy-konfety-colorful-sweet-lollipop-sladosti-jell.jpg",
     "alias": "sweet"
   },{
   "name": "Бакалея",
-  "url": "",
+  "url": "https://obed-office.moscow/image/cache/catalog/drugie/25229373-300x200w.jpg",
   "alias": "grocery"
 }
 ]

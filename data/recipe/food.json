@@ -1,7 +1,7 @@
 {
   "breakfast": [{
     "id": 1,
-    "title": "Бабушкиниы срыники",
+    "title": "Бабушкиниы сырники",
     "img": "https://i.pinimg.com/736x/fe/b4/c7/feb4c743455be73142d3689741fd2c44.jpg",
     "ingredients": [
       {
@@ -186,7 +186,7 @@
     {
       "id": 4,
       "title": "Цезарь традиционный",
-      "img": "https://i.pinimg.com/736x/fe/b4/c7/feb4c743455be73142d3689741fd2c44.jpg",
+      "img": "https://kafemayachok.ru/images/virtuemart/product/44a2.jpg",
       "ingredients": [
         {
           "name": "Зеленый салат",

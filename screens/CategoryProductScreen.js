@@ -74,6 +74,8 @@ export default class CategoryProductScreen extends Component {
                       margin: 10,
                     }}
                     onPress={() => Actions.product({alias: item.alias})}>
+                    <Image source={{uri: item.url}} style={{position:'absolute', width: '100%', height: '100%', borderTopLeftRadius: 30,
+                    borderBottomRightRadius: 30}} />
                     <View
                       style={{
                         flex: 1,
@@ -88,6 +90,7 @@ export default class CategoryProductScreen extends Component {
                         {item.name}
                       </Text>
                     </View>
+
                     <View style={{flex: 1}} />
                   </TouchableOpacity>
                 </View>

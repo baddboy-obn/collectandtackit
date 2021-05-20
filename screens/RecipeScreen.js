@@ -76,6 +76,8 @@ export default class RecipeScreen extends Component {
                       onPress={() =>
                         Actions.recipeDetail({id: item.id, root: root})
                       }>
+                      <Image source={{uri: item.img}} style={{position:'absolute', width: '100%', height: '100%', borderTopLeftRadius: 30,
+                        borderBottomRightRadius: 50}} />
                       <View
                         style={{
                           flex: 1,
